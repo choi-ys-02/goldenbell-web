@@ -1,0 +1,26 @@
+# dependencies
+/node_modules
+
+# Next.js
+/.next/
+/out/
+
+# production
+/build
+
+# environment files
+.env*
+!.env.example
+
+# local files
+.DS_Store
+*.pem
+*.log
+*.zip
+
+# TypeScript
+*.tsbuildinfo
+
+# Vercel project metadata and pulled environment variables
+.vercel/
+.vercel
